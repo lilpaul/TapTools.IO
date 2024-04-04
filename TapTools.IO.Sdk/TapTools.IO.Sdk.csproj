@@ -7,9 +7,10 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/lilpaul/TapTools.IO</RepositoryUrl>
     <PackageTags>cardano; taptools; api; market;</PackageTags>
-    <Version>0.0.2-pre-release</Version>
+    <Version>0.0.3-pre-release</Version>
 	<Authors>paulcowan</Authors>
 	<PackageDescription>Sdk for calling TapTools.IO API.</PackageDescription>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,7 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Extensions\" />
+    <None Update="LICENSE">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="README.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
