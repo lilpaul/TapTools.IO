@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapTools.IO.Sdk", "TapTools.IO.Sdk\TapTools.IO.Sdk.csproj", "{E2217B19-E82F-4CFE-82DD-172C5EDF7B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapTools.IO.Sample", "TapTools.IO.Sample\TapTools.IO.Sample.csproj", "{05FE21F7-BF6D-4913-B78E-F8435056C80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2217B19-E82F-4CFE-82DD-172C5EDF7B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2217B19-E82F-4CFE-82DD-172C5EDF7B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2217B19-E82F-4CFE-82DD-172C5EDF7B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2217B19-E82F-4CFE-82DD-172C5EDF7B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE21F7-BF6D-4913-B78E-F8435056C80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE21F7-BF6D-4913-B78E-F8435056C80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE21F7-BF6D-4913-B78E-F8435056C80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE21F7-BF6D-4913-B78E-F8435056C80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F5B491-1B6F-464B-B254-53C75393D26E}
+	EndGlobalSection
+EndGlobal
