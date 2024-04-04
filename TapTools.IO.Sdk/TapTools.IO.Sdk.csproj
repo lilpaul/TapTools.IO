@@ -8,6 +8,8 @@
     <RepositoryUrl>https://github.com/lilpaul/TapTools.IO</RepositoryUrl>
     <PackageTags>cardano; taptools; api; market;</PackageTags>
     <Version>0.0.1-pre-release</Version>
+	<Authors>paulcowan</Authors>
+	<PackageDescription>Sdk for calling TapTools.IO API.</PackageDescription>
   </PropertyGroup>
 
   <ItemGroup>
