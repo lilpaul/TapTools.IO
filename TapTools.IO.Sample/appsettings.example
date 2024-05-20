@@ -1,7 +1,7 @@
 {
 	"TapTools": {
 		"ApiAuthKey": "API AUTH KEY GOES HERE",
-		"BaseUrl": ""
+		"BaseUrl": "https://openapi.taptools.io/api/v1"
 	}
 	// Please create a file called "appsettings.json" with the context above and update the values
 }
